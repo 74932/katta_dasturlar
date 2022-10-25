@@ -1,0 +1,2 @@
+# katta_dasturlar
+salom
